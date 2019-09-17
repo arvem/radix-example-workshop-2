@@ -23,7 +23,7 @@ spec:
               cpu: "10m"
             limits:
               memory: "54Mi"
-              cpu: "20m"
+              cpu: "21m"
           replicas: 1
   dnsAppAlias:
     environment: development
